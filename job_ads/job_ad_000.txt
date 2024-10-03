@@ -1,0 +1,35 @@
+Job Position: Junior Back-End Software Developer (Python)
+
+Company Description
+ACME Corporation is a leading innovator in HR systems and applicant tracking solutions. We specialize in creating sophisticated HR software that leverages the latest technologies, such as Natural Language Processing (NLP) and Generative AI, to provide cutting-edge tools for our clients. Our mission is to transform the HR landscape by delivering smart, efficient, and user-friendly solutions that make talent management seamless.
+
+We are looking for a talented and motivated Back-End Software Developer to join our team and help shape the future of HR technology. You will work closely with our skilled team to build and maintain the back-end of our HR software, ensuring that it’s scalable, efficient, and aligned with the latest advancements in AI and data management.
+
+Key Responsibilities:
+Design, develop, and maintain back-end components using Python.
+Implement NLP and Generative AI features to enhance HR functionalities.
+Build and integrate recommendation systems to improve user experience.
+Work with vector databases and SQL to handle large-scale data processing.
+Collaborate with front-end developers, data scientists, and other stakeholders to deliver a seamless product.
+Write clean, efficient, and well-documented code.
+Participate in code reviews and contribute to continuous improvement.
+
+Requirements:
+Proven experience in Python development, particularly in building back-end solutions.
+Strong knowledge of Natural Language Processing (NLP) and Generative AI.
+Experience with recommendation systems and vector databases.
+Proficiency in SQL and database management.
+Excellent communication skills and a good command of the English language.
+Ability to work independently as well as collaboratively in a team environment.
+Passion for learning and staying up-to-date with the latest trends and technologies in software development.
+
+Additional Information:
+Location: Hybrid work model – enjoy the flexibility of remote work combined with time spent in our beautiful office environment.
+Competitive salary with opportunities for growth.
+Access to ongoing training and development programs.
+Friendly, supportive, and inclusive company culture.
+If you're passionate about back-end development, AI technologies, and want to be part of an innovative team that's changing the HR landscape, we'd love to hear from you!
+
+Apply Now and Join ACME Corporation's Journey to Revolutionize HR!
+
+ACME Corporation is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

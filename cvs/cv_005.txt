@@ -1,0 +1,72 @@
+**Name:** Alex Taylor
+**Email:** alex.taylor@example.com
+**Phone:** +1 (555) 123-4567
+**Location:** Boston, MA, USA
+**LinkedIn:** linkedin.com/in/alextaylor-student
+**GitHub:** github.com/alextaylor-dev
+
+---
+
+### **Professional Summary**
+
+Enthusiastic Computer Science student with a solid foundation in Python programming and hands-on experience gained through university projects. Demonstrates strong problem-solving skills and a keen interest in developing software solutions. Looking for an internship or entry-level opportunity to further develop programming skills and gain industry experience.
+
+---
+
+### **Education**
+
+- **Bachelor of Science in Computer Science** (In Progress)
+  Boston University
+  **Expected Graduation:** May 2025
+
+---
+
+### **Technical Skills**
+
+- **Programming Languages:** Python, HTML, CSS
+- **Tools & Technologies:** Git, Jupyter Notebook
+- **Other Skills:** Basic knowledge of algorithms and data structures, problem-solving, debugging
+
+---
+
+### **University Projects**
+
+#### **1. Weather Data Analysis Application**
+- Developed a Python application that fetches real-time weather data using the OpenWeatherMap API and presents it in a user-friendly format.
+- Implemented features such as data visualization using `matplotlib` and data storage using CSV files.
+- Gained experience in working with APIs, handling JSON data, and creating clear, organized code.
+
+**Key Technologies:** Python, APIs, JSON, `matplotlib`
+
+---
+
+#### **2. Student Grades Management System**
+- Created a simple command-line Python program to manage student grades, allowing users to add, update, and view student records.
+- Used object-oriented programming (OOP) principles to design a structured, maintainable codebase.
+- Practiced data manipulation and file handling by storing student information in text files.
+
+**Key Technologies:** Python, OOP, File Handling
+
+---
+
+#### **3. Basic Web Scraper**
+- Built a Python script to scrape data from a public website, extracting relevant information and storing it in a CSV file.
+- Learned about web scraping techniques using the `BeautifulSoup` and `requests` libraries.
+- Developed skills in data extraction, cleaning, and organizing large datasets.
+
+**Key Technologies:** Python, BeautifulSoup, `requests`, CSV
+
+---
+
+### **Additional Experience**
+
+- **Hackathon Participant:** Participated in the university's annual hackathon and collaborated with a team of 4 to develop a Python-based quiz application.
+- **Coding Club Member:** Active member of the university coding club, where I regularly participate in coding challenges and workshops.
+
+---
+
+### **Additional Skills**
+
+- Strong analytical and problem-solving abilities
+- Ability to work effectively both independently and in a team
+- Eager to learn new technologies and improve programming skills

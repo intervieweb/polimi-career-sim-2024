@@ -1,0 +1,76 @@
+Nome: Maria Rossi
+Email: maria.rossi@example.com
+Telefono: +39 333 123 4567
+Luogo di Residenza: Milano, Italia
+LinkedIn: linkedin.com/in/mariarossi-dev
+GitHub: github.com/mariarossi-dev
+
+Profilo Professionale
+Sviluppatrice Python Senior con 20 anni di esperienza nello sviluppo back-end per applicazioni complesse e su larga scala. Esperta nell’implementazione di soluzioni robuste, scalabili ed efficienti utilizzando Python e tecnologie correlate. Competente nella guida di team di sviluppo, nel mentoring di sviluppatori junior e nella gestione dell'intero ciclo di vita del software, dal design alla messa in produzione. Abituata a lavorare in ambienti Agile e a collaborare con team multifunzionali. Esperienza approfondita nella progettazione, implementazione e testing di software di alta qualità.
+
+Competenze Tecniche
+Linguaggi di Programmazione: Python, Java, C++
+Framework Web: Django, Flask, FastAPI
+Database: PostgreSQL, MySQL, MongoDB
+Servizi Cloud: AWS (EC2, S3, Lambda), Azure, Google Cloud
+DevOps: Docker, Kubernetes, Jenkins, GitLab CI/CD
+Testing: PyTest, UnitTest, Selenium
+Controllo di Versione: Git, SVN
+Altri Strumenti: Redis, RabbitMQ, Celery, API RESTful, GraphQL, ElasticSearch
+Metodologie Agile: Scrum, Kanban
+Esperienza Professionale
+1. Sviluppatrice Python Senior
+NextTech Solutions, Milano, Italia
+Gennaio 2016 – Presente
+
+Guidato il team di sviluppo back-end nella progettazione e nella realizzazione di applicazioni web scalabili e ad alte prestazioni utilizzando Python, Django e Flask.
+Progettato e implementato API RESTful, migliorando l'integrazione dei sistemi e riducendo i tempi di elaborazione dei dati del 30%.
+Svolto attività di testing software con PyTest e UnitTest, ottenendo una riduzione del 40% dei bug e dei problemi in produzione.
+Migrazione dei sistemi legacy su infrastruttura cloud (AWS), con una riduzione dei costi operativi del 25% e un aumento dell’uptime.
+Fornito mentoring e formazione a un team di 5 sviluppatori junior, promuovendo le best practice e la gestione dei progetti.
+Collaborato con sviluppatori front-end, ingegneri DevOps e product manager per garantire l'integrazione e il rilascio tempestivo delle funzionalità.
+Introdotto framework di testing automatizzato, migliorando la qualità del codice e riducendo i tempi di test del 50%.
+Tecnologie Utilizzate: Python, Django, Flask, PostgreSQL, AWS, PyTest, Docker, Jenkins, Git
+
+2. Sviluppatrice Software Senior
+InnovaWare S.p.A., Roma, Italia
+Maggio 2008 – Dicembre 2015
+
+Sviluppato e mantenuto sistemi back-end complessi per applicazioni enterprise, contribuendo a un aumento del 60% dell’affidabilità e della scalabilità della piattaforma.
+Implementato algoritmi avanzati di elaborazione dati in Python, ottimizzando le prestazioni del sistema e riducendo i tempi di recupero dei dati del 45%.
+Coordinato un team di 8 sviluppatori in un progetto di ammodernamento del software legacy, con una riduzione del 35% dei costi di manutenzione.
+Svolto attività di testing e debugging approfonditi per garantire un codice di alta qualità privo di bug prima del rilascio.
+Creato e mantenuto documentazione tecnica dettagliata, migliorando la collaborazione e il trasferimento di conoscenze all’interno del team.
+Tecnologie Utilizzate: Python, Django, MySQL, Java, AWS, PyTest, GitLab CI/CD
+
+3. Sviluppatrice Back-End
+BluWave Technologies, Torino, Italia
+Agosto 2003 – Aprile 2008
+
+Svolto un ruolo chiave nello sviluppo di servizi back-end e API per applicazioni e-commerce e finanziarie utilizzando Python e Django.
+Implementato soluzioni di archiviazione e recupero dei dati con PostgreSQL e MongoDB, migliorando la velocità e l'efficienza dell'applicazione.
+Collaborato con il team front-end per l’integrazione delle API, garantendo un flusso di dati continuo e un'esperienza utente ottimale.
+Effettuato test unitari e ottimizzazione delle prestazioni, riducendo i tempi di risposta dell'applicazione del 20%.
+Supportato la migrazione di codebase legacy verso architetture più moderne, contribuendo a un miglioramento del 30% delle prestazioni del sistema.
+Tecnologie Utilizzate: Python, Django, PostgreSQL, MongoDB, Selenium, Git, Docker
+
+Formazione
+Laurea Magistrale in Informatica
+Università di Bologna | 2003
+
+Laurea Triennale in Informatica
+Politecnico di Torino | 2001
+
+Certificazioni
+AWS Certified Solutions Architect – Associate (2020)
+Scrum Master Certified (SMC) (2018)
+PCPP – Python Certified Professional Programmer (2016)
+Progetti e Risultati Raggiunti
+Ottimizzazione di Piattaforma E-commerce: Guidato il team back-end in NextTech Solutions per ottimizzare una piattaforma e-commerce, ottenendo un aumento del 50% nella velocità di transazione e un aumento del 20% nella fidelizzazione dei clienti.
+Migrazione al Cloud: Completata con successo la migrazione delle applicazioni legacy di InnovaWare S.p.A. ad AWS, riducendo i costi infrastrutturali del 30% e ottenendo un uptime del 99,9%.
+Iniziativa di Automazione: Introdotto procedure di testing automatizzate in BluWave Technologies, riducendo del 60% i tempi di QA e migliorando l'affidabilità del software.
+Altre Competenze
+Eccellenti capacità di problem-solving e analisi
+Ottime capacità comunicative e di collaborazione in team
+Ampia esperienza nel mentoring e nella formazione di sviluppatori junior
+Competenza avanzata nelle metodologie Agile e Scrum

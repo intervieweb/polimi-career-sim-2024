@@ -1,0 +1,91 @@
+**Name:** Emily Johnson
+**Email:** emily.johnson@example.com
+**Phone:** +1 (555) 234-5678
+**Location:** Seattle, WA, USA
+**LinkedIn:** linkedin.com/in/emilyjohnson-dev
+**GitHub:** github.com/emilyjohnson-dev
+
+---
+
+### **Professional Summary**
+
+Skilled Python Developer with 8 years of experience in back-end development, specializing in building and maintaining web applications and APIs. Proficient in Python and Django, with a strong ability to develop efficient and scalable solutions. Experienced in Agile methodologies and working collaboratively with cross-functional teams. Dedicated to delivering high-quality code and continuous learning.
+
+---
+
+### **Technical Skills**
+
+- **Programming Languages:** Python
+- **Web Frameworks:** Django, Flask
+- **Databases:** PostgreSQL, SQLite
+- **Version Control:** Git
+- **Cloud Services:** AWS (basic experience)
+- **Testing:** PyTest
+
+---
+
+### **Professional Experience**
+
+#### **1. Python Developer**
+**WebWorks Solutions, Seattle, WA**
+**March 2018 – Present**
+
+- Developed and implemented a recommendation system using NLP techniques, including reranker.
+- Developed and maintained back-end services using Python and Django, contributing to the creation of a scalable SaaS platform.
+- Designed and implemented RESTful APIs, enhancing system integration and improving overall application performance.
+- Gained experience with AWS by assisting in the deployment of back-end services in a cloud environment.
+
+**Key Technologies:** Python, Django, PostgreSQL, AWS, PyTest, Git
+
+---
+
+#### **2. Back-End Developer**
+**BrightCode Inc., Portland, OR**
+**June 2015 – February 2018**
+
+- Contributed to the development of an internal management platform using Python and Django, resulting in a 30% increase in operational efficiency.
+- Integrated third-party APIs for data synchronization, enabling seamless connectivity between different services.
+- Optimized database queries and data models, improving data retrieval speed and application responsiveness.
+
+**Key Technologies:** Python, Django, SQLite, Git
+
+---
+
+#### **3. Junior Python Developer**
+**CodeWave Technologies, San Francisco, CA**
+**August 2013 – May 2015**
+
+- Assisted in developing back-end functionality for a CRM application using Python and Flask.
+- Wrote unit tests and collaborated closely with team members to ensure the delivery of high-quality, bug-free code.
+
+**Key Technologies:** Python, Flask, SQLite
+
+---
+
+### **Education**
+
+- **Bachelor of Science in Computer Science**
+  University of California, San Diego | 2013
+
+---
+
+### **Certifications**
+
+- **Generative AI intermediate course with DeepLearning.ai**
+- **AWS Certified Developer – Associate** (2021)
+
+---
+
+### **Projects & Achievements**
+
+- **API Development:** Successfully led the implementation of a RESTful API at WebWorks Solutions, which improved data integration across multiple services by 25%.
+- **Database Optimization:** Contributed to database optimization efforts at BrightCode Inc., resulting in faster query performance and improved user experience.
+
+---
+
+### **Additional Skills**
+
+- Strong analytical and problem-solving skills
+- Effective communicator and team player
+- Experience in Agile/Scrum development practices
+

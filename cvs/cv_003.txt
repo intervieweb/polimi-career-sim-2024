@@ -1,0 +1,60 @@
+Name: James Miller
+Email: james.miller@example.com
+Phone: +1 (555) 678-9101
+Location: Austin, TX, USA
+LinkedIn: linkedin.com/in/jamesmiller-dev
+GitHub: github.com/jamesmiller-dev
+
+Professional Summary
+Dedicated Python Developer with 8 years of experience in back-end development. Proficient in designing and implementing scalable web applications and APIs using Python and Django. Strong problem-solving skills and a passion for delivering efficient, high-quality solutions. Experienced in Agile development environments and working collaboratively within cross-functional teams.
+
+Technical Skills
+Programming Languages: Python
+Web Frameworks: Django, Flask
+Databases: PostgreSQL, SQLite
+Version Control: Git
+Cloud Services: AWS (basic experience)
+Testing: PyTest
+
+Professional Experience
+
+1. Python Developer
+ByteWorks Inc., Austin, TX
+April 2018 – Present
+
+Developed and maintained back-end services using Python and Django for a SaaS application.
+Built and documented RESTful APIs, enabling seamless integration with front-end services.
+Introduced automated testing practices with PyTest, improving code reliability and reducing bugs.
+Assisted in migrating parts of the infrastructure to AWS, gaining hands-on experience with cloud deployments.
+Key Technologies: Python, Django, PostgreSQL, AWS, PyTest, Git
+
+2. Back-End Developer
+SkyNet Solutions, San Diego, CA
+July 2015 – March 2018
+
+Contributed to the development of an e-commerce platform by building back-end components with Python and Django.
+Integrated third-party APIs for payment processing and logistics, improving the platform's functionality.
+Worked on optimizing database queries, resulting in faster data retrieval and improved application performance.
+Key Technologies: Python, Django, SQLite, Git
+
+3. Junior Python Developer
+TechWave Solutions, San Francisco, CA
+August 2013 – June 2015
+
+Assisted in developing back-end services for a CRM application using Python and Flask.
+Wrote unit tests to ensure code quality and collaborated with team members on troubleshooting and bug fixes.
+Key Technologies: Python, Flask, SQLite
+
+Education
+Bachelor of Science in Computer Science
+University of California, San Diego | 2013
+Certifications
+AWS Certified Developer – Associate (2021)
+Projects & Achievements
+API Gateway Development: Successfully led the implementation of an API gateway at ByteWorks Inc., enhancing data processing efficiency.
+Database Optimization: Improved query performance by optimizing database structures and indexing, resulting in a noticeable speed increase for end-users.
+
+Additional Skills
+Strong problem-solving and analytical skills
+Effective communicator and team collaborator
+Familiarity with Agile development practices

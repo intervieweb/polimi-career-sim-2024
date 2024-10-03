@@ -1,0 +1,38 @@
+Name: James Carter
+Email: james.carter@example.com
+Phone: +1 555 987 6543
+Location: San Francisco, California
+LinkedIn: linkedin.com/in/jamescarter-python-dev
+Languages: English (Native), Spanish (Conversational)
+
+Professional Summary
+Dynamic and dedicated professional with three years of experience as a waiter in a small restaurant and two years of backend development experience using Python. Proven ability to deliver exceptional customer service while effectively collaborating in team-oriented environments. Eager to leverage a unique blend of hospitality and technical skills in a new role.
+
+Professional Experience
+1. Waiter
+The Cozy Corner, San Francisco, CA
+June 2020 – May 2023
+
+Provided attentive and friendly service to customers in a small, family-owned restaurant.
+Managed food and beverage orders for multiple tables during busy shifts, ensuring timely service.
+Collaborated with kitchen staff to maintain a smooth workflow and customer satisfaction.
+Developed rapport with regular customers, contributing to a welcoming atmosphere.
+2. Python Backend Developer
+Tech Solutions Inc., San Francisco, CA
+June 2023 – Present
+
+Developed and maintained scalable backend systems using Python and Flask, improving application performance by 30%.
+Collaborated with front-end developers to integrate user-facing elements with server-side logic.
+Conducted code reviews and participated in agile development processes to enhance team productivity.
+Assisted in troubleshooting and debugging issues to ensure optimal system performance.
+Education
+Bachelor of Science in Computer Science
+University of California, Berkeley | Graduated: May 2021
+Skills
+Customer Service: Strong ability to provide excellent service and ensure customer satisfaction.
+Python Development: Proficient in Python and frameworks such as Flask; experience in backend development.
+Database Management: Familiarity with SQL and NoSQL databases for data storage and retrieval.
+Communication: Effective verbal and written communication skills, with a talent for building relationships with clients and team members.
+Team Collaboration: Ability to work well with others in both hospitality and technical environments.
+Professional Development
+Completed an online course in RESTful API development with Python and Flask.
